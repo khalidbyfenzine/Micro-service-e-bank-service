@@ -5,9 +5,7 @@
 <h3>Architecture du projet</h3>
 <img src="screenshots/architecture.png">
 
-<h3>Structure du projet</h3>
-<img src="screenshots/structure.png">
-<br>
+
 <h3>La base de donnée des comptes</h3>
 <img src="screenshots/bdd.png">
 <br>
